@@ -1,0 +1,23 @@
+.card{
+	background: #ffffff;
+	padding: 10px;
+}
+.cardsWrapper{
+	padding: 0;
+}
+
+.card{
+	margin-top: 10px;
+	border-radius: 15px;
+	list-style-type:none;
+	display: flex;
+}
+
+.imgWrapper{
+	max-height: 100%;
+}
+.imgWrapper img{
+	width: 200px;
+	object-fit: fill;
+	height: auto;
+}
